@@ -1,0 +1,5 @@
+Quotes and @Pon Siva and author and Role in company Color = rgba(80, 167, 220, 1)
+Background color of card = rgba(0, 43, 70, 1)
+the " Is a text not a SVG
+
+On hover i should get red bg for Right and left

@@ -1,0 +1,1 @@
+You should create a working tetris with 100 points for every success. When the game ends you should Have You Lost Text with score and below that that game's score.

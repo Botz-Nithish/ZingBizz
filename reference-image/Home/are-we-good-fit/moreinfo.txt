@@ -1,0 +1,3 @@
+Rotate the thumbs up for thumbs down
+Green - rgba(123, 178, 72, 1)
+the why we dont fit icon color : rgba(35, 84, 113, 1)

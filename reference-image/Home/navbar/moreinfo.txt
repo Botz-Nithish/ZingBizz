@@ -1,0 +1,2 @@
+background of navbar = rgba(0, 14, 23, 0.5)
+text color = rgba(255, 255, 255, 1)
