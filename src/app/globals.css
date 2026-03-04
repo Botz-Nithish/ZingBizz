@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-brand-red: #f00000;
+  --color-brand-bg: #021d2d;
+  --font-sans: var(--font-urbanist);
+}
+
+:root {
+  --background: #021d2d;
+  --foreground: #ffffff;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  overflow-x: hidden;
+}

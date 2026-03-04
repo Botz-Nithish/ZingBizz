@@ -1,0 +1,4 @@
+
+Main Hero Text (Tech driven one) color background: linear-gradient(90deg, #FFFFFF 41.5%, #999999 56%, #FFFFFF 70.5%);
+Total  Background info: background: radial-gradient(100% 100% at 50% 0%, #085C90 0%, #021D2D 61.06%, #00090F 100%);
+Main background through out the website is rgba(2, 29, 45, 1) unless any other color is mentioned in the image.
